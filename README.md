@@ -17,5 +17,5 @@
 - [Análisis liga de cricket](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/EDA_Indian_league.ipynb)
 - [Poryección del  mercado de acciones APPL](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Precio%20de%20acciones%20APPL.ipynb)
 - [Predicción de precios de acciones](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Predict%20Stock%20Price.ipynb)
-- [Detectar enfermedad - PK](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/predecir parkinson.ipynb)
+- [Detectar enfermedad - PK](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/predecir%20parkinson.ipynb)
 - [Análisis de texto](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/yelp_exercise.ipynb)
