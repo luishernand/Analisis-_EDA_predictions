@@ -12,7 +12,7 @@
 
 # Jupyter Notebooks  
 
-- [churn rate](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/EDA_Indian_league.ipynb)
+- [churn rate](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Churn_rate.ipynb)
 - [web scraping](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Data_scraping_pandas_json.ipynb)
 - [Análisis liga de cricket](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/EDA_Indian_league.ipynb)
 - [Poryección del  mercado de acciones](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Precio de acciones APPL.ipynb)
