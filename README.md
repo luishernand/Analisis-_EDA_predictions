@@ -9,6 +9,7 @@
 5. Predicción de precios de cierre de acciones
 6. Detectar enfermedad de parkinson
 7. Análizar textos  
+1. Optimizador de Carteras
 
 # Jupyter Notebooks  
 
@@ -19,3 +20,4 @@
 - [Predicción de precios de acciones](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Predict%20Stock%20Price.ipynb)
 - [Detectar enfermedad - PK](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/predecir%20parkinson.ipynb)
 - [Análisis de texto](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/yelp_exercise.ipynb)
+- [optimizador de carteras de inversion](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/finance_porfolio_opt.ipynb)
