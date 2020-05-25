@@ -9,7 +9,7 @@
 5. Predicción de precios de cierre de acciones
 6. Detectar enfermedad de parkinson
 7. Análizar textos  
-1. Optimizador de Carteras
+1. Optimizador de Carteras (para ver los resultados ver en google colab)
 
 # Jupyter Notebooks  
 
