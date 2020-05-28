@@ -10,6 +10,7 @@
 6. Detectar enfermedad de parkinson
 7. Análizar textos  
 1. Optimizador de Carteras (para ver los resultados ver en google colab)
+1. Deserción de empleados (Employee Attrition)
 
 # Jupyter Notebooks  
 
@@ -20,4 +21,5 @@
 - [Predicción de precios de acciones](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/Predict%20Stock%20Price.ipynb)
 - [Detectar enfermedad - PK](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/predecir%20parkinson.ipynb)
 - [Análisis de texto](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/yelp_exercise.ipynb)
-- [optimizador de carteras de inversion](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/finance_porfolio_opt.ipynb)
+- [optimizador de carteras de inversion](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/finance_porfolio_opt.ipynb)  
+- [Deserción empleados](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/desercion_empleados.ipynb)
