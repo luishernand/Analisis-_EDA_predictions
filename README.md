@@ -1,6 +1,6 @@
 <img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" heiht= 150 width= 150 alt=" ">  
 
-# Análisis Exploratorio de Datos(EDA)-Predicciones
+# Análisis Exploratorio de Datos(EDA) y Predicciones
 
 1. Análisis de Churn Rate -Abandono
 2. web scraping
@@ -11,6 +11,7 @@
 7. Análizar textos  
 1. Optimizador de Carteras (para ver los resultados ver en google colab)
 1. Deserción de empleados (Employee Attrition)
+1. Predecir precios de viviendas
 
 # Jupyter Notebooks  
 
@@ -23,3 +24,4 @@
 - [Análisis de texto](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/yelp_exercise.ipynb)
 - [optimizador de carteras de inversion](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/finance_porfolio_opt.ipynb)  
 - [Deserción empleados](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/desercion_empleados.ipynb)
+-[Precio de viviendas](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predict_price.ipynb)
