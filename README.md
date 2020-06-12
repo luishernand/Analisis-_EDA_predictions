@@ -12,6 +12,7 @@
 1. Optimizador de Carteras (para ver los resultados ver en google colab)
 1. Deserción de empleados (Employee Attrition)
 1. Predecir precios de viviendas
+1. Estrategia Comercial de compra y ventas(RSI)
 
 # Jupyter Notebooks  
 
@@ -25,3 +26,4 @@
 - [optimizador de carteras de inversion](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/finance_porfolio_opt.ipynb)  
 - [Deserción empleados](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/desercion_empleados.ipynb)
 -[Precio de viviendas](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predict_price.ipynb)
+-[Estrategia Comercial de compra y ventas RSI](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RSI_estrategia%20comercial.ipynb)
