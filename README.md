@@ -1,7 +1,6 @@
 <img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" heiht= 150 width= 150 alt=" ">  
 
-# Análisis Exploratorio de Datos(EDA) y Predicciones
-
+# Análisis Exploratorio de Datos(EDA), Predicciones contiene:
 1. Análisis de Churn Rate -Abandono
 2. web scraping
 3. Análisis Deportivo - Liga de Cricket
@@ -13,6 +12,8 @@
 1. Deserción de empleados (Employee Attrition)
 1. Predecir precios de viviendas
 1. Estrategia Comercial de compra y ventas(RSI)
+1. Sistema de recomendación
+1. Predecir precios de un día en espefíco
 
 # Jupyter Notebooks  
 
@@ -27,3 +28,5 @@
 - [Deserción empleados](https://nbviewer.jupyter.org/github/luishernand/Analisis-_EDA_predictions/blob/master/desercion_empleados.ipynb)
 -[Precio de viviendas](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predict_price.ipynb)
 -[Estrategia Comercial de compra y ventas RSI](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RSI_estrategia%20comercial.ipynb)
+- [Sistema de recomendación](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Sistema%20de%20recomendacion.ipynb)
+-[precio del día en especifíco](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predecir_precio_dia_espefico.ipynb)
