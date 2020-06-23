@@ -15,6 +15,7 @@
 1. Sistema de recomendación
 1. Predecir precios de un día en espefíco
 1. Análisis y Clasificador de personas con problemas de Salud(Ataques Cardíacos)
+1. El indicador técnico "Convergencia/Divergencia de Medias Móviles"(MACD)
 
 # Jupyter Notebooks  
 
@@ -31,4 +32,5 @@
 - [Estrategia Comercial de compra y ventas RSI](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RSI_estrategia%20comercial.ipynb)  
 - [Sistema de recomendación](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Sistema%20de%20recomendacion.ipynb)  
 - [predicir precio de un dia  en especifíco](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predecir_precio_dia_espefico.ipynb)  
-- [Clasificador de Ataques cardiacos](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Analysis%20ataques%20cardiacos.ipynb)
+- [Clasificador de Ataques cardiacos](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Analysis%20ataques%20cardiacos.ipynb)  
+- [Indicador MACD](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Indicador%20MACD.ipynb)
