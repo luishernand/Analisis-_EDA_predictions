@@ -16,6 +16,7 @@
 1. Predecir precios de un día en espefíco
 1. Análisis y Clasificador de personas con problemas de Salud(Ataques Cardíacos)
 1. El indicador técnico "Convergencia/Divergencia de Medias Móviles"(MACD)
+1. Análisis de compras de productos
 
 # Jupyter Notebooks  
 
@@ -34,3 +35,4 @@
 - [predicir precio de un dia  en especifíco](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predecir_precio_dia_espefico.ipynb)  
 - [Clasificador de Ataques cardiacos](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Analysis%20ataques%20cardiacos.ipynb)  
 - [Indicador MACD](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Indicador%20MACD.ipynb)
+- [Analisis de compra de productos](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/market%20basket%20analysis.ipynb)
