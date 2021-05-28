@@ -40,3 +40,10 @@
 - [Analisis de compra de productos](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/market%20basket%20analysis.ipynb)  
 - [Stock market sentiment Analysis](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Stock%20Market%20Sentiment.ipynb#Stock-Market-Sentiment-Analysis-Using-Python-&-Machine-Learning)
 - [Análisis de sentimiento with Bert](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Sentiment_with_BERT.ipynb)  
+
+
+## Repositorios de BI 
+[Inteligencia de Negocios BI](https://github.com/luishernand/Inteligencia-de-Negocios)
+
+## Repositorio  
+[Análisis por tipo de empresa](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias)
