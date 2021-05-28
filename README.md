@@ -18,6 +18,7 @@
 1. El indicador técnico "Convergencia/Divergencia de Medias Móviles"(MACD)
 1. Análisis de compras de productos  
 1. Stock Market Sentiment Analysis Using Python & Machine Learning
+2. Análisis de sentimientos utilizando Bert, torch y transaformer  
 
 # Jupyter Notebooks  
 
@@ -38,3 +39,4 @@
 - [Indicador MACD](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Indicador%20MACD.ipynb)
 - [Analisis de compra de productos](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/market%20basket%20analysis.ipynb)  
 - [Stock market sentiment Analysis](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Stock%20Market%20Sentiment.ipynb#Stock-Market-Sentiment-Analysis-Using-Python-&-Machine-Learning)
+- [Análisis de sentimiento with Bert](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Sentiment_with_BERT.ipynb)  
