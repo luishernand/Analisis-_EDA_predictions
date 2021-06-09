@@ -46,4 +46,4 @@
 [Inteligencia de Negocios BI](https://luishernand.github.io/Inteligencia-de-Negocios/)
 
 ## Repositorio  
-[Análisis por tipo de empresa](https://github.com/luishernand/Mis-proyectos-de-ML-por-tipo-Industrias)
+[Análisis por tipo de empresa](https://luishernand.github.io/Mis-proyectos-de-ML-por-tipo-Industrias/)
