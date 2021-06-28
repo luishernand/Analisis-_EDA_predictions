@@ -20,6 +20,7 @@
 1. Stock Market Sentiment Analysis Using Python & Machine Learning
 2. Análisis de sentimientos utilizando Bert, torch y transaformer  
 3. Bitcoin Death and Golden cross
+4. Simple SMA signal buy/sell
 
 # Jupyter Notebooks  
 
@@ -41,7 +42,8 @@
 - [Analisis de compra de productos](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/market%20basket%20analysis.ipynb)  
 - [Stock market sentiment Analysis](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Stock%20Market%20Sentiment.ipynb#Stock-Market-Sentiment-Analysis-Using-Python-&-Machine-Learning)
 - [Análisis de sentimiento with Bert](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Sentiment_with_BERT.ipynb)  
-- [Bitcoin death and golden cross](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Death%20Cross.ipynb)
+- [Bitcoin death and golden cross](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Death%20Cross.ipynb) 
+- [Simple SMA signal buy/sell](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Simple%20moving%20Signal.ipynb)
 
 
 ## Repositorios de BI 
